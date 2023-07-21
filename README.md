@@ -14,8 +14,8 @@ This is a RESTful API that provides access to a food nutritional component datab
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/food-nutritional-api.git
-cd food-nutritional-api
+git clone https://github.com/Finbek/Food-Nutrient-Component.git
+cd Food-Nutrient-Component
 ```
 
 2. Install the required packages:
